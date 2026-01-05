@@ -1,2 +1,3 @@
 hadi
 Ilk git commit denemesi
+1) git status - durumu goster
